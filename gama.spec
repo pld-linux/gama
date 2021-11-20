@@ -2,7 +2,7 @@ Summary:	GNU Gama - adjustment of geodetic networks
 Summary(pl.UTF-8):	GNU Gama - wyrównywanie sieci geodezyjnych
 Name:		gama
 Version:	2.14
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Applications/Science
 Source0:	https://ftp.gnu.org/gnu/gama/%{name}-%{version}.tar.gz
